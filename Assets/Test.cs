@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Test : MonoBehaviour
+public class Test: MonoBehaviour
 {
 
     // Use this for initialization
@@ -31,11 +31,9 @@ public class Test : MonoBehaviour
     }
 }
 
-using UnityEngine;
-using System.Collections;
 
-public class Test : MonoBehaviour
-{
+
+
 
     // Use this for initialization
     void Start()
